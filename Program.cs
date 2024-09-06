@@ -1,4 +1,5 @@
-namespace questão1;
+namespace prova3;
+
 class Program
 {
     static void Main(string[] args)
